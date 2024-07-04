@@ -1,1 +1,1 @@
-name = print(input("Enter your name"))
+print (Hamzah)
